@@ -216,6 +216,7 @@ Repo mirrors:
 - [Maple](https://github.com/gemrest/maple) (C++) - A very simple static Gemini server, now with Titan support!
 - [Marami](https://github.com/MagnificentPako/Marami/) (Prolog) - server written in Prolog.
 - [Molly Brown](https://tildegit.org/solderpunk/molly-brown) (Go) - full-featured Gemini server implemented in Go.
+- [mollyb](https://github.com/augmentedlogic/mollyb) (Java) - A basic Gemini server in Java
 - [MoonGem](https://sr.ht/~panda-roux/MoonGem) (C) - gemini server with inline Lua scripting for dynamic content generation.
 - [net-gemini](https://github.com/jackdoe/net-gemini) (Go) - gemini server inspired by Molly Brown.
 - [Orbit](https://tildegit.org/sumpygump/orbit) (PHP) - Gemini server implemented in PHP.
